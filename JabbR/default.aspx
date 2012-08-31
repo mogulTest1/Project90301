@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JabbR Change 2323 sdfsd  asflsajfs</title>
+    <title>JabbR Change 2323 sdfsd  asflsajfsXXXXX</title>
     <meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta name="description" content="A real-time chat application." />
     <meta name="keywords" content="chat,realtime chat,signalr,jabbr" />
